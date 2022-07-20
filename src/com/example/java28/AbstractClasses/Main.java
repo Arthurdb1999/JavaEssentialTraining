@@ -5,8 +5,18 @@ import java.util.List;
 
 import com.example.java28.AbstractClasses.model.*;
 
+/**
+ * 
+ * @author i564938
+ * This is an <b>olive press</b> application, and its job is to <i>press olives</i>.
+ *
+ */
 public class Main {
 
+    /**
+     * The main method
+     * @param args - an arrayof String values
+     */
     public static void main(String[] args) {
 
         List<Olive> olives = new ArrayList<>();
